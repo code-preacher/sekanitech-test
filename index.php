@@ -1,3 +1,4 @@
+hello oche
 <?php
 $db = new mysqli("localhost", "root", "", "oop_6");
 if ($db->connect_error) {
